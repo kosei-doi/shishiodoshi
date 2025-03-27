@@ -1,5 +1,5 @@
 # 鹿おどし
-鹿おどしのアニメーション動画
+鹿おどしのアニメーション動画<br>
 [詳細動画](https://www.instagram.com/p/CnsrOIRh1lP/)
 
 ## 特徴
